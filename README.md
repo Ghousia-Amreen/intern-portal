@@ -87,5 +87,5 @@ The backend will run on `http://localhost:3000` (or your configured port).
 ## 👤 Author
 
 - Name: Ghousia Amreen
-- Task: Round 1 Full Stack Intern Portal
+- Task: Full Stack Intern Portal
 - Submitted on: August 2025
