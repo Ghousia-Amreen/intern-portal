@@ -1,6 +1,6 @@
 # 🧑‍💻 Intern Portal – Full Stack Project
 
-This is a simple full stack intern portal built as part of the Round 1 Task submission.
+This is a simple full stack intern portal.
 
 It includes a dummy login page, a dashboard showing intern details, rewards, and a backend API serving dummy data.
 
@@ -87,5 +87,4 @@ The backend will run on `http://localhost:3000` (or your configured port).
 ## 👤 Author
 
 - Name: Ghousia Amreen
-- Task: Full Stack Intern Portal
-- Submitted on: August 2025
+- Project: Full Stack Intern Portal
